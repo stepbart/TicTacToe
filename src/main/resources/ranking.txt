@@ -1,0 +1,6 @@
+5 0 0 Teresa
+3 0 1 Jan
+2 1 0 Tomek
+2 0 0 Tomek
+1 0 0 Tomek
+0 1 0 Bartek

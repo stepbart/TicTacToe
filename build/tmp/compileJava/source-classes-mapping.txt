@@ -1,0 +1,12 @@
+TicTacToe/GameService.java
+ TicTacToe.GameService
+TicTacToe/MainApp.java
+ TicTacToe.MainApp
+TicTacToe/Field.java
+ TicTacToe.Field
+TicTacToe/Player.java
+ TicTacToe.Player
+TicTacToe/RanksComparator.java
+ TicTacToe.RanksComparator
+TicTacToe/Constants.java
+ TicTacToe.Constants
