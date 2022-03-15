@@ -16,4 +16,4 @@ Board, if there is no game in progress, react on clicking on each field, and sho
     <img src="https://github.com/stepbart/TicTacToe/blob/master/funny_board.gif">
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center"><a href="#top">back to top</a></p>
