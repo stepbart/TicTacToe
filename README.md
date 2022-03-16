@@ -8,9 +8,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is Tic Tac Toe game created in Java, using JavaFX libraries. There is a rank (in .txt file), which update after each game, you can choose a level between 'easy' and 'hard' and number of rounds.
+This is Tic Tac Toe game created in Java, using JavaFX libraries. There is a rank (in .txt file), which updates after each game. Also player can choose level between 'easy' and 'hard' and number of rounds.
 
-Board, if there is no game in progress, react on clicking on each field, and show words of the game's name in random colours, here is example:
+Board, if there is no game in progress, is reacting on clicking on each field showing words of the game's name in random colours:
 
 <div align="center">
     <img src="https://github.com/stepbart/TicTacToe/blob/master/funny_board.gif">
